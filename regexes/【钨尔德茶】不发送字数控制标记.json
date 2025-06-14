@@ -1,0 +1,17 @@
+{
+    "id": "c1ab1323-cc65-48c3-8e65-3fc019d9f6fb",
+    "scriptName": "【钨尔德茶】不发送字数控制标记",
+    "findRegex": "/(<!-- 正文已输出)((?:(?!\\1).)*?)-->/gms",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": false,
+    "promptOnly": true,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}
