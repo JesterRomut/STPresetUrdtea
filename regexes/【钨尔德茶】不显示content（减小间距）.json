@@ -1,0 +1,17 @@
+{
+    "id": "b9b3c953-3842-4b40-b4d4-1932fd3dd70b",
+    "scriptName": "【钨尔德茶】不显示content（减小间距）",
+    "disabled": false,
+    "runOnEdit": true,
+    "findRegex": "/<(content)>([\\s\\S]*?)(?:<\\/\\1>)/g",
+    "replaceString": "$2",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null,
+    "markdownOnly": true,
+    "promptOnly": false
+}

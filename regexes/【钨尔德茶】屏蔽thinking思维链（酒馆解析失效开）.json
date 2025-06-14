@@ -1,0 +1,17 @@
+{
+    "id": "8a029893-4536-45da-9eb2-b94d50e93f47",
+    "scriptName": "【钨尔德茶】屏蔽thinking思维链（酒馆解析失效开）",
+    "findRegex": "/<(thinking)>[\\s\\S]*?(?:<\\/\\1>)/g",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": true,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}
