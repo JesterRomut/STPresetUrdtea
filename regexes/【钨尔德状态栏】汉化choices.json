@@ -1,0 +1,17 @@
+{
+    "id": "5aa5f039-2a96-41c6-88db-f7aebaf181f8",
+    "scriptName": "【钨尔德状态栏】汉化CHOICES",
+    "disabled": false,
+    "runOnEdit": true,
+    "findRegex": "/<summary>CHOICES<\\/summary>/gm",
+    "replaceString": "<summary>选择</summary>",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null,
+    "markdownOnly": true,
+    "promptOnly": false
+}
