@@ -1,0 +1,17 @@
+{
+    "id": "80712113-3313-4598-b0e4-bcd9a957fc58",
+    "scriptName": "【钨尔德状态栏】提示词隐藏CHOICES[5]",
+    "findRegex": "/<(details)>[\\s\\S]*?(?:<summary>CHOICES<\\/summary>)+[\\s\\S]*?(?:<\\/\\1>)/gi",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": false,
+    "promptOnly": true,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": 5,
+    "maxDepth": null
+}

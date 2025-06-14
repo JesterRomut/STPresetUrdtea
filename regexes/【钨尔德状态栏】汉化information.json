@@ -1,0 +1,17 @@
+{
+    "id": "7ced1a4a-d8d2-4506-9a29-20d8061b837a",
+    "scriptName": "【钨尔德状态栏】汉化INFORMATION",
+    "disabled": false,
+    "runOnEdit": true,
+    "findRegex": "/<summary>INFORMATION<\\/summary>/gm",
+    "replaceString": "<summary>信息</summary>",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null,
+    "markdownOnly": true,
+    "promptOnly": false
+}
