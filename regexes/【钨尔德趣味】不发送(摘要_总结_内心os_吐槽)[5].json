@@ -1,12 +1,14 @@
 {
     "id": "fc4ea45a-00ee-4122-ad76-0e1a2017eba1",
-    "scriptName": "【钨尔德趣味】不发送(摘要|内心OS|吐槽)[5]",
+    "scriptName": "【钨尔德趣味】不发送(摘要|总结|内心OS|吐槽)[5]",
     "disabled": false,
     "runOnEdit": true,
-    "findRegex": "/<(details)>[\\s\\S]*?(?:<summary>(?:摘要|内心OS|吐槽)<\\/summary>)+[\\s\\S]*?(?:<\\/\\1>)/gmi",
+    "findRegex": "/<(details)>[\\s\\S]*?(?:<summary>(?:摘要|总结|内心|内心OS|吐槽)<\\/summary>)+[\\s\\S]*?(?:<\\/\\1>)/gmi",
     "replaceString": "",
     "trimStrings": [],
-    "placement": [2],
+    "placement": [
+        2
+    ],
     "substituteRegex": 0,
     "minDepth": 5,
     "maxDepth": null,
