@@ -27,6 +27,12 @@
 <details>
 <summary><i>【钨尔德茶】预设下载</i></summary>
 
+v1.2.0T:
+- 只能使用配套世界书配置的测试版。
+- 正式版会同时支持预设内配置和世界书配置。
++ [【钨尔德茶】预设v1.2.0T.json](presets/【钨尔德茶】预设v1.2.0T.json)
++ [【钨尔德茶配置】v1.json](worldbooks/【钨尔德茶配置】v1.json)
+
 v1.1.4:
 - 添加视角配置。
 - 添加了一些自定义区。更方便缝合。
@@ -104,7 +110,7 @@ v1.0.0:
 ![](gallery/ud_octopus_cat_dog_robin.png "下面记忆增强表格的CSS不被正则影响，是我在修改。")
 
 <details>
-<summary><i>【钨尔德状态栏】世界书下载</i></summary>
+<summary><i>【钨尔德创意实验室】世界书下载</i></summary>
 
 v1.1.0:
 - 添加了总结模块。与摘要不同的是总结会总结至一整个段落。并仅聚焦于本轮回复。
@@ -118,7 +124,7 @@ v1.0.0:
 </details>
 
 <details>
-<summary><i>【钨尔德状态栏】正则下载</i></summary>
+<summary><i>【钨尔德创意实验室】正则下载</i></summary>
 
 + [【钨尔德趣味】不发送(摘要_内心os_吐槽)[5].json](regexes/【钨尔德趣味】不发送(摘要_内心os_吐槽)[5].json)
 + [【钨尔德趣味】不发送(摘要_总结_内心os_吐槽)[5].json](regexes/【钨尔德趣味】不发送(摘要_总结_内心os_吐槽)[5].json)
